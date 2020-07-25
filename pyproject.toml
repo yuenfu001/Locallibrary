@@ -6,6 +6,11 @@ authors = ["yuenfu001 <64754712+yuenfu001@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+django = "^3.0.8"
+black = "^19.10b0"
+python-dotenv = "^0.14.0"
+psycopg2 = "^2.8.5"
+dj-database-url = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
 
